@@ -1,0 +1,14 @@
+.history {
+    position: absolute;
+    right: 5px;
+    border: 1px solid black;
+    min-height: 160px;
+    min-width: 200px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
+
+Button {
+    width: 100px;
+    margin-left: 10px;
+}
